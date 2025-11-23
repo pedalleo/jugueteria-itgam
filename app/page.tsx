@@ -80,7 +80,7 @@ export default function Home() {
                 rel="noopener noreferrer"
                 className="ml-1 text-sky-600 hover:underline"
               >
-                github.com/tu/repo
+                github.com/pedalleo/jugueteria-itgam
               </a>
             </div>
           </div>
