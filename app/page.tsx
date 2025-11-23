@@ -75,7 +75,7 @@ export default function Home() {
             <div>
               Repositorio:
               <a
-                href="https://github.com/tu/repo"
+                href="https://github.com/pedalleo/jugueteria-itgam"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="ml-1 text-sky-600 hover:underline"
