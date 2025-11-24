@@ -291,3 +291,4 @@ https://tu-proyecto-production.up.railway.app
 - **Exportación de datos**
     - Exportar productos y ventas en CSV/Excel para análisis externo.
     
+    
