@@ -1,6 +1,6 @@
 # Panel de administración — Juguetería
 
-Panel de administración para una juguetería, desarrollado como proyecto universitario.
+Panel de administración para una juguetería, desarrollado como proyecto para la asignatura *Aprendizaje automático para la web*.
 Permite gestionar productos, registrar ventas y visualizar métricas básicas en un dashboard.
 
 ## 📌 Características principales
@@ -290,5 +290,4 @@ https://tu-proyecto-production.up.railway.app
 
 - **Exportación de datos**
     - Exportar productos y ventas en CSV/Excel para análisis externo.
-    
     
