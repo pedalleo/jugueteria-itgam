@@ -71,9 +71,17 @@ export default function Home() {
           </div>
 
           <div className="text-slate-500">
-            <div>Autor: Pedro Alejandro</div>
             <div>
-              Repositorio:
+              <p><strong> Hecho por:</strong></p>
+              <ul>
+                <li>Pedro Alejandro</li>
+                <li>Gloria Eugenia</li>
+                <li>Dira Yolotzin</li>
+                <li>Verónica</li>
+              </ul>
+            </div>
+            <div>
+              <strong>Repositorio:</strong>
               <a
                 href="https://github.com/pedalleo/jugueteria-itgam"
                 target="_blank"
